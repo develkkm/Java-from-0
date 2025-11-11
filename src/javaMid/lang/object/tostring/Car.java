@@ -1,4 +1,4 @@
-package javaMid.object.tostring;
+package javaMid.lang.object.tostring;
 
 public class Car {
 

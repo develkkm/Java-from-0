@@ -1,4 +1,4 @@
-package javaMid.object.equals;
+package javaMid.lang.object.equals;
 
 public class EqualsMainV1 {
 

@@ -1,4 +1,4 @@
-package javaMid.object.poly;
+package javaMid.lang.object.poly;
 
 public class Dog {
     public void sound() {

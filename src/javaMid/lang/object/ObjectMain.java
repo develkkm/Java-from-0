@@ -1,4 +1,4 @@
-package javaMid.object;
+package javaMid.lang.object;
 
 public class ObjectMain {
 

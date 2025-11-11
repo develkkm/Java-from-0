@@ -1,4 +1,4 @@
-package javaMid.object.equals;
+package javaMid.lang.object.equals;
 
 import java.util.Objects;
 

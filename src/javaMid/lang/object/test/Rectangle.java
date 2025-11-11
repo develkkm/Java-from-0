@@ -1,4 +1,4 @@
-package javaMid.object.test;
+package javaMid.lang.object.test;
 
 public class Rectangle {
     private final int width;
